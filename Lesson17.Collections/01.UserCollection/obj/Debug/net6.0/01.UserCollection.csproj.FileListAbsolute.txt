@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\bin\Debug\net6.0\01.UserCollection.exe
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\bin\Debug\net6.0\01.UserCollection.deps.json
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\bin\Debug\net6.0\01.UserCollection.runtimeconfig.json
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\bin\Debug\net6.0\01.UserCollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\bin\Debug\net6.0\01.UserCollection.pdb
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\refint\01.UserCollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.pdb
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\01.UserCollection.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson17.Collections\01.UserCollection\obj\Debug\net6.0\ref\01.UserCollection.dll

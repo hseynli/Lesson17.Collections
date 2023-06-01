@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\bin\Debug\net6.0\02.IEnumerable.exe
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\bin\Debug\net6.0\02.IEnumerable.deps.json
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\bin\Debug\net6.0\02.IEnumerable.runtimeconfig.json
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\bin\Debug\net6.0\02.IEnumerable.dll
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\bin\Debug\net6.0\02.IEnumerable.pdb
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.dll
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\refint\02.IEnumerable.dll
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.pdb
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\02.IEnumerable.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson17.Collections\02.IEnumerable\obj\Debug\net6.0\ref\02.IEnumerable.dll

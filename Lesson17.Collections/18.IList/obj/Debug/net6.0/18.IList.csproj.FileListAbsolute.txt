@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\bin\Debug\net6.0\18.IList.exe
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\bin\Debug\net6.0\18.IList.deps.json
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\bin\Debug\net6.0\18.IList.runtimeconfig.json
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\bin\Debug\net6.0\18.IList.dll
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\bin\Debug\net6.0\18.IList.pdb
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.dll
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\refint\18.IList.dll
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.pdb
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\18.IList.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson17.Collections\18.IList\obj\Debug\net6.0\ref\18.IList.dll

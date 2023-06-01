@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\bin\Debug\net6.0\16.ICollection.exe
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\bin\Debug\net6.0\16.ICollection.deps.json
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\bin\Debug\net6.0\16.ICollection.runtimeconfig.json
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\bin\Debug\net6.0\16.ICollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\bin\Debug\net6.0\16.ICollection.pdb
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\refint\16.ICollection.dll
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.pdb
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\16.ICollection.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson17.Collections\16.ICollection\obj\Debug\net6.0\ref\16.ICollection.dll

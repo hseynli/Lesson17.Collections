@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\bin\Debug\net6.0\08.Yield.exe
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\bin\Debug\net6.0\08.Yield.deps.json
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\bin\Debug\net6.0\08.Yield.runtimeconfig.json
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\bin\Debug\net6.0\08.Yield.dll
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\bin\Debug\net6.0\08.Yield.pdb
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.dll
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\refint\08.Yield.dll
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.pdb
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\08.Yield.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson17.Collections\08.Yield\obj\Debug\net6.0\ref\08.Yield.dll
